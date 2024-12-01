@@ -1,4 +1,9 @@
-# Advent of Code project template
+# Advent of Code 2024
+
+Using Rust again this year.  Used it back in 2021 I believe!  Downloaded a template from [here](https://github.com/wjwh/aoc-template-rs) to handle the boilerplate.
+
+## Advent of Code project template
+
 A Rust template for Advent of Code that I made to easily run any day or combination of days and measure the execution time.
 
 Each day has a `solve()` function that returns a pair of `Solution`. The type `Solution` is an enum that can contain any integer or a string.
